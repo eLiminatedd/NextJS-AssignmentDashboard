@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It uses premade components from Shadcn/ui, further styled with Tailwind CSS classes, to display a dashboard. The main functionality is authenticating and logging flow control through Clerk.
 
+## Links
+
+* Netlify Deployment: https://nextjs-dashboard-task.netlify.app/
+
 ## Getting Started
 
 First, run the development server:
